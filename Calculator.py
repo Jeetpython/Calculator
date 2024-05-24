@@ -1,4 +1,4 @@
-operation = input("Which operation?")
+operation = input("Which operation, +, -, * or /? ")
 number1  = int(input("Number One?"))
 number2 = int(input("Number two?"))
 
